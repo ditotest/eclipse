@@ -16,6 +16,7 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Testando GIT");
+		System.out.println("A");
 
 	}
 
